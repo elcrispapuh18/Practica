@@ -6,7 +6,7 @@
   box-sizing: border-box; }
 
 body {
-  background: #fff;
+  background: rgb(255, 255, 255);
   font-family: "Open Sans";
   font-size: 16px; }
 
@@ -18,7 +18,7 @@ body {
 
 /* ----- ----- HEADER ----- ----- */
 header {
-  background: url("../img/Barranco.jpg"), rgb(0, 255, 234);
+  background: url("../img/Barranco.jpg"), rgba(255, 255, 255, 0.445);
   background-repeat: no-repeat;
   background-position: center;
   max-height: 600px;}
@@ -28,7 +28,7 @@ header {
     text-align: right; }
     header .menu a {
       margin: 0 20px;
-      color: rgb(255, 255, 255);
+      color: rgb(151, 151, 151);
       padding-bottom: 9px;
       font-size: 1em;
       display: inline-block;
